@@ -1,4 +1,4 @@
-# 🤖 RAG Multi-Agent Chatbot
+# 🤖 RAG Multi-Agent Chatbot (also with LLM-as-Judge)
 
 A **Retrieval-Augmented Generation (RAG)** powered chatbot built with **LangGraph**, **Groq LLMs**, and **ChromaDB**.  
 This project demonstrates how multi-agent orchestration + vector databases can deliver **context-aware, reliable answers** from long-form documents.  
